@@ -23,10 +23,13 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://kenny-s-blog-udtk.vercel.app",
   since: 2021, // If leave this empty, current year will be used.
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  seo: {
+    keywords : ["Blog", "Software", "Kenny", "Notion", "软件开发", "技术分享", "生活分享"]
+  },
 
   // notion configuration (required)
   notionConfig: {
