@@ -20,6 +20,7 @@ const CONFIG = {
   blog: {
     title: "Kenny's blog",
     description: "welcome to Kenny's blog!",
+    theme: "light"
   },
 
   // CONFIG configration (required)
@@ -65,7 +66,7 @@ const CONFIG = {
     },
   },
   isProd: process.env.VERCEL_ENV === "production", // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
-  revalidateTime: 5, // revalidate time for [slug], index
+  revalidateTime: 86400, // revalidate time for [slug], index
 }
 
 module.exports = { CONFIG }
