@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Kenny's blog`,
+      name: `Kenny’s Thoughts`,
       href: "https://github.com/bugscleaner",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "Kenny's blog",
-    description: "welcome to Kenny's blog!",
+    title: "Kenny’s Thoughts",
+    description: "welcome to Kenny’s Thoughts!",
     theme: "light"
   },
 
