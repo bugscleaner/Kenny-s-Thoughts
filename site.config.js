@@ -29,7 +29,7 @@ const CONFIG = {
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords : ["Blog", "Software", "Kenny", "Notion", "软件开发", "技术分享", "生活分享"]
+    keywords : ["Blog", "Software", "Kenny", "Notion", "软件开发", "技术分享", "生活分享", "Kenny’s Thoughts", "后端", "java", "Java", "架构", "算法", "程序员"]
   },
 
   // notion configuration (required)
