@@ -1,11 +1,11 @@
 # Sitemaps
-Sitemap: https://www.k-thoughts.site/sitemap.xml
+Sitemap: www.k-thoughts.site/sitemap.xml
 
 # *
 User-agent: *
 Allow: /
 
 # Host
-Host: https://www.k-thoughts.site
+Host: www.k-thoughts.site
 
 
